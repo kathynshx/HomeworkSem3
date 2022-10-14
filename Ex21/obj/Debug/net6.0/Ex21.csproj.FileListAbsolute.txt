@@ -1,0 +1,15 @@
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/bin/Debug/net6.0/Ex21
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/bin/Debug/net6.0/Ex21.deps.json
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/bin/Debug/net6.0/Ex21.runtimeconfig.json
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/bin/Debug/net6.0/Ex21.dll
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/bin/Debug/net6.0/Ex21.pdb
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.csproj.AssemblyReference.cache
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.AssemblyInfoInputs.cache
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.AssemblyInfo.cs
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.csproj.CoreCompileInputs.cache
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.dll
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/refint/Ex21.dll
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.pdb
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/Ex21.genruntimeconfig.cache
+/Users/ekaterinashvalyuk/Desktop/seminar3hom/Ex21/obj/Debug/net6.0/ref/Ex21.dll
